@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Arxalan007
-- 👀 I’m interested in Asp.net MVC
-- 🌱 I’m currently learning Php
-- 💞️ I’m looking to collaborate on Php
+- 👀 I’m interested in Asp.net
+- 🌱 I’m currently learning Flutter, Django
+- 💞️ I’m looking to collaborate on Flutter, Django
 - 📫 How to reach me arxalan.arain987@gmail.com
 
 <!---
