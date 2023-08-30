@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @Arxalan007
-- 👀 I’m interested in DotNet, NopCommerce
-- 🌱 I’m currently learning Flutter, Django
-- 💞️ I’m looking to collaborate on DotNet, NopCommerce
-- 📫 How to reach me arxalan.arain987@gmail.com
+- 👀 I’m currently working on: Mastering the NopCommerce, Clean Architecture, and some advanced software architectures
 
 <!---
 Arxalan007/Arxalan007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
